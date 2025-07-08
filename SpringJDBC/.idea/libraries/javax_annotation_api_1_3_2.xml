@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="javax.annotation-api-1.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/mysql-connector-java-5.1.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/spring-aop-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/spring-beans-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/spring-context-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/spring-core-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/spring-expression-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/spring-jcl-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/spring-jdbc-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/spring-tx-5.3.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Course/jar files/springcore jar/mysql-connector-j-8.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
